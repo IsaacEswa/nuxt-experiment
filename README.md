@@ -1,1 +1,1 @@
-# nuxt-experiment
+# Nuxt Experiment
